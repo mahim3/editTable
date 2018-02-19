@@ -19,7 +19,8 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+        "styles.css",
+        "F:/Mahi Pendrive/editTable/src/assets/css/bootstrap.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
